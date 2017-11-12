@@ -7,6 +7,7 @@
     <header>
       <!-- http://localhost/Choayak/index.html  -->
       <!-- https://choi-won-nyeong.github.io//Choayak//index.html -->
+      <img></img>
     <a href="index.html">
       <img src="img/초아약.png" id="MainLogo" width="7%" height="5%">
     </a>
